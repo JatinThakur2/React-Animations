@@ -9,13 +9,11 @@ Welcome to the React Animations repository! This collection showcases various an
 ## Parallax Effect
 
 ![Parallax Effect Demo](parallax-effect/demo.gif)
-
 ### Description
 
 The Parallax Effect project demonstrates a common web design technique where background elements move at a different rate compared to foreground elements. This creates a sense of depth and immersion for the user.
 
 ### Features
-
 - Smooth scrolling with depth-based movement.
 - Customizable speed and distance for parallax layers.
 
