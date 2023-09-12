@@ -18,7 +18,6 @@ The Parallax Effect project demonstrates a common web design technique where bac
 - Customizable speed and distance for parallax layers.
 
 ### Usage
-
 1. Navigate to the project directory:
    ```bash
    cd parallax-effect
