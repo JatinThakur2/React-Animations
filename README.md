@@ -6,8 +6,6 @@ Welcome to the React Animations repository! This collection showcases various an
 
 1. [Parallax Effect](#parallax-effect)
 
-## Parallax Effect
-
 ![Parallax Effect Demo](parallax-effect/demo.gif)
 ### Description
 
