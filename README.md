@@ -21,4 +21,3 @@ The Effects project demonstrates a common web design technique where background 
 1. Navigate to the project directory:
    ```bash
    cd parallax-effect
-
