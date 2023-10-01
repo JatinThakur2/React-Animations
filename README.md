@@ -8,6 +8,7 @@ Welcome to the React Animations repository! This collection showcases various an
 ![Parallax Effect Demo](parallax-effect/demo.gif)
 2. [React-Swiper-Slider-3D-Coverflow](https://github.com/JatinThakur2/React-Animations/tree/main/Web%20components/React-Swiper-Slider-3D-Coverflow)
 ![React-Swiper-Slider-3D-Coverflow](React-Swiper-Slider-3D-Coverflow/demo.gif)
+3. [React Basic heading](https://github.com/JatinThakur2/React-Web-devlopemt/tree/main/Web%20components/reactjs-basic-form-handling)
 ### Description
 
 The Effects project demonstrates a common web design technique where background elements move at a different rate compared to foreground elements. This creates a sense of depth and immersion for the user.
